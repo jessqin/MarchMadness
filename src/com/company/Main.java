@@ -27,27 +27,38 @@ public class Main {
         Scanner keyInTeams = new Scanner(new File("Teams.csv"));
 
         int maxIndxTeams = -1;
-        String [] nameID = new String[364];
+        String [] nameID = new String[366];
 
         while (keyInTeams.hasNextLine())
         {
             maxIndxTeams++;
-            nameID[maxIndx] = keyInTeams.nextLine();
+            nameID[maxIndxTeams] = keyInTeams.nextLine();
         }
+
 
         int wins = 0;
         int losses = 0;
-        String name = "";
+        String teamID = "";
+        String names [] = new String[365];
+        String college = "";
+        String ids[] = new String[365];
         int id = 1100;
-        String [] listTeams = new String[364];
+        //String [] listTeams = new String[364];
 
-        for (int n = 0; n < 365 ; n++)
+//           id = id + 1;
+//           teamID = Integer.toString(id);
+//          listTeams[n] = teamID;
+        for (int counter = 0; counter < 364; counter++)
         {
-            id = id + 1;
-            name = Integer.toString(id);
-            listTeams[n] = name;
+            String team_ID_Name = nameID[counter + 1];
+            String [] IDNameOpt = team_ID_Name.split(",");
+            names[counter] = IDNameOpt[1];
+            ids [counter] = IDNameOpt[0];
+
         }
-        for (int k = 0; k < 365; k++)
+
+
+        for (int k = 0; k < maxIndxTeams; k++)
         {
             for (int i = 0; i < maxIndx ; i++)
             {
@@ -56,20 +67,32 @@ public class Main {
                 String wteam = lineItem[2];
                 String lTeam = lineItem[4];
 
-                if (wteam.equalsIgnoreCase(listTeams[k]))
+                if (wteam.equalsIgnoreCase(ids[k]))
                 {
                     wins++;
                 }
-                else if (lTeam.equalsIgnoreCase(listTeams[k]))
+                else if (lTeam.equalsIgnoreCase(ids[k]))
                 {
                     losses++;
                 }
 
             }
 
-            Team t = new Team(listTeams[k],wins,losses);
+            for (int j = 0; j < maxIndxTeams; j++)
+            {
+                if (ids[k].equalsIgnoreCase(ids[j]))
+                {
+                    college = names[j];
+                }
+            }
 
+            Team t = new Team(ids[k],college, wins,losses);
             stats.add(t);
+        }
+
+        for (int b = 0; b < stats.size(); b++)
+        {
+
         }
 
         keyIn.close();
