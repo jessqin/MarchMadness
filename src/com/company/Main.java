@@ -14,7 +14,7 @@ public class Main {
 
 
         int maxIndx = -1;
-        ArrayList stats = new ArrayList();
+        ArrayList<Team> stats = new ArrayList();
         String [] sStats = new String[3000];
         while(keyIn.hasNextLine())
         {
@@ -57,21 +57,24 @@ public class Main {
 
         }
 
+        FileWriter fw = new FileWriter(new File("Win-Loss.txt"));
+        PrintWriter pw = new PrintWriter("Win-Loss.txt");
+
 
         for (int k = 0; k < maxIndxTeams; k++)
         {
-            for (int i = 0; i < maxIndx ; i++)
+            for (int i = 0; i < 5 ; i++)
             {
                 String line = sStats[i + 1];
                 String [] lineItem = line.split(",");
                 String wteam = lineItem[2];
                 String lTeam = lineItem[4];
 
-                if (wteam.equalsIgnoreCase(ids[k]))
+                if (ids[k].equalsIgnoreCase(wteam))
                 {
                     wins++;
                 }
-                else if (lTeam.equalsIgnoreCase(ids[k]))
+                else if (ids[k].equalsIgnoreCase(lTeam))
                 {
                     losses++;
                 }
@@ -83,18 +86,22 @@ public class Main {
                 if (ids[k].equalsIgnoreCase(ids[j]))
                 {
                     college = names[j];
+                    break;
                 }
             }
 
-            Team t = new Team(ids[k],college, wins,losses);
+            Team t = new Team(college,ids[k], wins,losses);
             stats.add(t);
-        }
 
+
+
+        }
         for (int b = 0; b < stats.size(); b++)
         {
-
+            int wl = (stats.get(b)).calculateWinLossRatio();
+            pw.println((stats.get(b)).name + ": " + wl);
         }
-
+        pw.close();
         keyIn.close();
         //System.out.println(stats);
 

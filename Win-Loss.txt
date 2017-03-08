@@ -1,0 +1,364 @@
+Abilene Chr: 0
+Air Force: 0
+Akron: 0
+Alabama: 0
+Alabama A&M: 0
+Alabama St: 0
+Albany NY: 0
+Alcorn St: 0
+Alliant Intl: 0
+American Univ: 0
+Appalachian St: 0
+Arizona: 0
+Arizona St: 0
+Ark Little Rock: 0
+Ark Pine Bluff: 0
+Arkansas: 1
+Arkansas St: 1
+Armstrong St: 1
+Army: 1
+Auburn: 2
+Augusta: 2
+Austin Peay: 2
+Ball St: 2
+Baylor: 2
+Belmont: 2
+Bethune-Cookman: 2
+Binghamton: 2
+Birmingham So: 2
+Boise St: 2
+Boston College: 2
+Boston Univ: 2
+Bowling Green: 2
+Bradley: 2
+Brooklyn: 2
+Brown: 2
+Bryant: 2
+Bucknell: 2
+Buffalo: 2
+Butler: 2
+BYU: 2
+C Michigan: 2
+Cal Poly SLO: 2
+California: 2
+Campbell: 2
+Canisius: 2
+Cent Arkansas: 2
+Centenary: 2
+Central Conn: 2
+Charleston So: 2
+Charlotte: 2
+Chattanooga: 2
+Chicago St: 2
+Cincinnati: 2
+Citadel: 2
+Clemson: 2
+Cleveland St: 2
+Coastal Car: 2
+Col Charleston: 2
+Colgate: 2
+Colorado: 2
+Colorado St: 2
+Columbia: 2
+Connecticut: 2
+Coppin St: 2
+Cornell: 2
+Creighton: 2
+CS Bakersfield: 2
+CS Fullerton: 2
+CS Northridge: 2
+CS Sacramento: 2
+Dartmouth: 2
+Davidson: 2
+Dayton: 2
+Delaware: 2
+Delaware St: 2
+Denver: 2
+DePaul: 2
+Detroit: 2
+Drake: 2
+Drexel: 2
+Duke: 2
+Duquesne: 2
+E Illinois: 2
+E Kentucky: 2
+E Michigan: 2
+E Washington: 2
+East Carolina: 2
+Edwardsville: 2
+Elon: 2
+ETSU: 2
+Evansville: 2
+F Dickinson: 2
+Fairfield: 2
+FL Atlantic: 2
+FL Gulf Coast: 2
+Florida: 2
+Florida A&M: 2
+Florida Intl: 2
+Florida St: 2
+Fordham: 2
+Fresno St: 2
+Furman: 2
+G Washington: 2
+Ga Southern: 2
+Gardner Webb: 2
+George Mason: 2
+Georgetown: 3
+Georgia: 3
+Georgia St: 3
+Georgia Tech: 3
+Gonzaga: 3
+Grambling: 3
+Grand Canyon: 3
+Hampton: 3
+Hardin-Simmons: 3
+Hartford: 3
+Harvard: 3
+Hawaii: 3
+High Point: 3
+Hofstra: 3
+Holy Cross: 3
+Houston: 3
+Houston Bap: 3
+Howard: 3
+Idaho: 3
+Idaho St: 3
+IL Chicago: 3
+Illinois: 3
+Illinois St: 4
+Incarnate Word: 4
+Indiana: 4
+Indiana St: 4
+Iona: 4
+Iowa: 3
+Iowa St: 3
+IPFW: 3
+IUPUI: 3
+Jackson St: 3
+Jacksonville: 3
+Jacksonville St: 3
+James Madison: 3
+Kansas: 4
+Kansas St: 4
+Kennesaw: 4
+Kent: 4
+Kentucky: 4
+La Salle: 4
+Lafayette: 4
+Lamar: 4
+Lehigh: 3
+Liberty: 3
+Lipscomb: 3
+Long Beach St: 3
+Long Island: 3
+Longwood: 3
+Louisiana Tech: 3
+Louisville: 3
+Loy Marymount: 3
+Loyola MD: 3
+Loyola-Chicago: 3
+LSU: 3
+MA Lowell: 3
+Maine: 3
+Manhattan: 3
+Marist: 3
+Marquette: 3
+Marshall: 3
+Maryland: 3
+Massachusetts: 3
+McNeese St: 3
+MD E Shore: 3
+Memphis: 3
+Mercer: 3
+Miami FL: 3
+Miami OH: 3
+Michigan: 3
+Michigan St: 3
+Minnesota: 3
+Mississippi: 3
+Mississippi St: 3
+Missouri: 3
+Missouri KC: 3
+Missouri St: 3
+Monmouth NJ: 3
+Montana: 3
+Montana St: 3
+Morehead St: 3
+Morgan St: 3
+Morris Brown: 3
+MS Valley St: 3
+Mt St Mary's: 3
+MTSU: 3
+Murray St: 3
+N Colorado: 3
+N Dakota St: 3
+N Illinois: 3
+N Kentucky: 3
+Navy: 3
+NC A&T: 3
+NC Central: 3
+NC State: 3
+NE Illinois: 3
+NE Omaha: 3
+Nebraska: 3
+Nevada: 3
+New Hampshire: 3
+New Mexico: 3
+New Mexico St: 3
+New Orleans: 3
+Niagara: 3
+Nicholls St: 3
+NJIT: 3
+Norfolk St: 3
+North Carolina: 3
+North Dakota: 3
+North Florida: 3
+North Texas: 3
+Northeastern: 3
+Northern Arizona: 3
+Northern Iowa: 3
+Northwestern: 3
+Northwestern LA: 3
+Notre Dame: 3
+Oakland: 3
+Ohio: 2
+Ohio St: 2
+Okla City: 2
+Oklahoma: 2
+Oklahoma St: 2
+Old Dominion: 2
+Oral Roberts: 2
+Oregon: 2
+Oregon St: 2
+Pacific: 2
+Penn: 2
+Penn St: 2
+Pepperdine: 2
+Pittsburgh: 2
+Portland: 2
+Portland St: 2
+Prairie View: 2
+Presbyterian: 2
+Princeton: 2
+Providence: 2
+Purdue: 1
+Quinnipiac: 1
+Radford: 1
+Rhode Island: 1
+Rice: 1
+Richmond: 1
+Rider: 1
+Robert Morris: 1
+Rutgers: 1
+S Carolina St: 1
+S Dakota St: 1
+S Illinois: 1
+Sacred Heart: 1
+Sam Houston St: 1
+Samford: 1
+San Diego: 1
+San Diego St: 1
+San Francisco: 1
+San Jose St: 1
+Santa Barbara: 1
+Santa Clara: 1
+Savannah St: 1
+SC Upstate: 1
+SE Louisiana: 1
+SE Missouri St: 1
+Seattle: 1
+Seton Hall: 1
+SF Austin: 1
+Siena: 1
+SMU: 1
+South Alabama: 1
+South Carolina: 1
+South Dakota: 1
+South Florida: 1
+Southern Miss: 1
+Southern Univ: 1
+Southern Utah: 1
+St Bonaventure: 1
+St Francis NY: 1
+St Francis PA: 1
+St John's: 1
+St Joseph's PA: 1
+St Louis: 1
+St Mary's CA: 1
+St Peter's: 1
+Stanford: 1
+Stetson: 1
+Stony Brook: 1
+Syracuse: 1
+TAM C. Christi: 1
+TCU: 1
+Temple: 1
+Tennessee: 1
+Tennessee St: 1
+Tennessee Tech: 1
+Texas: 1
+Texas A&M: 1
+Texas St: 1
+Texas Tech: 1
+TN Martin: 1
+Toledo: 1
+Towson: 1
+Troy: 1
+Tulane: 1
+Tulsa: 1
+UTRGV: 1
+TX Southern: 1
+UAB: 1
+UC Davis: 1
+UC Irvine: 1
+UC Riverside: 1
+UCF: 1
+UCLA: 1
+ULL: 1
+ULM: 1
+UMBC: 1
+UNC Asheville: 1
+UNC Greensboro: 1
+UNC Wilmington: 1
+UNLV: 1
+USC: 0
+UT Arlington: 0
+UT San Antonio: 0
+Utah: 0
+Utah St: 0
+Utah Valley: 0
+UTEP: 0
+Utica: 0
+VA Commonwealth: 0
+Valparaiso: 0
+Vanderbilt: 0
+Vermont: 0
+Villanova: 0
+Virginia: 0
+Virginia Tech: 0
+VMI: 0
+W Carolina: 0
+W Illinois: 0
+WKU: 0
+W Michigan: 0
+W Salem St: 0
+W Texas A&M: 0
+Wagner: 0
+Wake Forest: 0
+Washington: 0
+Washington St: 0
+Weber St: 0
+West Virginia: 0
+WI Green Bay: 0
+WI Milwaukee: 0
+Wichita St: 0
+William & Mary: 0
+Winthrop: 0
+Wisconsin: 0
+Wofford: 0
+Wright St: 0
+Wyoming: 0
+Xavier: 0
+Yale: 0
+Youngstown St: 0
