@@ -1,364 +1,364 @@
-Abilene Chr: 0
-Air Force: 0
-Akron: 0
-Alabama: 0
-Alabama A&M: 0
-Alabama St: 0
-Albany NY: 0
-Alcorn St: 0
-Alliant Intl: 0
-American Univ: 0
-Appalachian St: 0
-Arizona: 0
-Arizona St: 0
-Ark Little Rock: 0
-Ark Pine Bluff: 0
-Arkansas: 1
-Arkansas St: 1
-Armstrong St: 1
-Army: 1
-Auburn: 2
-Augusta: 2
-Austin Peay: 2
-Ball St: 2
-Baylor: 2
-Belmont: 2
-Bethune-Cookman: 2
-Binghamton: 2
-Birmingham So: 2
-Boise St: 2
-Boston College: 2
-Boston Univ: 2
-Bowling Green: 2
-Bradley: 2
-Brooklyn: 2
-Brown: 2
-Bryant: 2
-Bucknell: 2
-Buffalo: 2
-Butler: 2
-BYU: 2
-C Michigan: 2
-Cal Poly SLO: 2
-California: 2
-Campbell: 2
-Canisius: 2
-Cent Arkansas: 2
-Centenary: 2
-Central Conn: 2
-Charleston So: 2
-Charlotte: 2
-Chattanooga: 2
-Chicago St: 2
-Cincinnati: 2
-Citadel: 2
-Clemson: 2
-Cleveland St: 2
-Coastal Car: 2
-Col Charleston: 2
-Colgate: 2
-Colorado: 2
-Colorado St: 2
-Columbia: 2
-Connecticut: 2
-Coppin St: 2
-Cornell: 2
-Creighton: 2
-CS Bakersfield: 2
-CS Fullerton: 2
-CS Northridge: 2
-CS Sacramento: 2
-Dartmouth: 2
-Davidson: 2
-Dayton: 2
-Delaware: 2
-Delaware St: 2
-Denver: 2
-DePaul: 2
-Detroit: 2
-Drake: 2
-Drexel: 2
-Duke: 2
-Duquesne: 2
-E Illinois: 2
-E Kentucky: 2
-E Michigan: 2
-E Washington: 2
-East Carolina: 2
-Edwardsville: 2
-Elon: 2
-ETSU: 2
-Evansville: 2
-F Dickinson: 2
-Fairfield: 2
-FL Atlantic: 2
-FL Gulf Coast: 2
-Florida: 2
-Florida A&M: 2
-Florida Intl: 2
-Florida St: 2
-Fordham: 2
-Fresno St: 2
-Furman: 2
-G Washington: 2
-Ga Southern: 2
-Gardner Webb: 2
-George Mason: 2
-Georgetown: 3
-Georgia: 3
-Georgia St: 3
-Georgia Tech: 3
-Gonzaga: 3
-Grambling: 3
-Grand Canyon: 3
-Hampton: 3
-Hardin-Simmons: 3
-Hartford: 3
-Harvard: 3
-Hawaii: 3
-High Point: 3
-Hofstra: 3
-Holy Cross: 3
-Houston: 3
-Houston Bap: 3
-Howard: 3
-Idaho: 3
-Idaho St: 3
-IL Chicago: 3
-Illinois: 3
-Illinois St: 4
-Incarnate Word: 4
-Indiana: 4
-Indiana St: 4
-Iona: 4
-Iowa: 3
-Iowa St: 3
-IPFW: 3
-IUPUI: 3
-Jackson St: 3
-Jacksonville: 3
-Jacksonville St: 3
-James Madison: 3
-Kansas: 4
-Kansas St: 4
-Kennesaw: 4
-Kent: 4
-Kentucky: 4
-La Salle: 4
-Lafayette: 4
-Lamar: 4
-Lehigh: 3
-Liberty: 3
-Lipscomb: 3
-Long Beach St: 3
-Long Island: 3
-Longwood: 3
-Louisiana Tech: 3
-Louisville: 3
-Loy Marymount: 3
-Loyola MD: 3
-Loyola-Chicago: 3
-LSU: 3
-MA Lowell: 3
-Maine: 3
-Manhattan: 3
-Marist: 3
-Marquette: 3
-Marshall: 3
-Maryland: 3
-Massachusetts: 3
-McNeese St: 3
-MD E Shore: 3
-Memphis: 3
-Mercer: 3
-Miami FL: 3
-Miami OH: 3
-Michigan: 3
-Michigan St: 3
-Minnesota: 3
-Mississippi: 3
-Mississippi St: 3
-Missouri: 3
-Missouri KC: 3
-Missouri St: 3
-Monmouth NJ: 3
-Montana: 3
-Montana St: 3
-Morehead St: 3
-Morgan St: 3
-Morris Brown: 3
-MS Valley St: 3
-Mt St Mary's: 3
-MTSU: 3
-Murray St: 3
-N Colorado: 3
-N Dakota St: 3
-N Illinois: 3
-N Kentucky: 3
-Navy: 3
-NC A&T: 3
-NC Central: 3
-NC State: 3
-NE Illinois: 3
-NE Omaha: 3
-Nebraska: 3
-Nevada: 3
-New Hampshire: 3
-New Mexico: 3
-New Mexico St: 3
-New Orleans: 3
-Niagara: 3
-Nicholls St: 3
-NJIT: 3
-Norfolk St: 3
-North Carolina: 3
-North Dakota: 3
-North Florida: 3
-North Texas: 3
-Northeastern: 3
-Northern Arizona: 3
-Northern Iowa: 3
-Northwestern: 3
-Northwestern LA: 3
-Notre Dame: 3
-Oakland: 3
-Ohio: 2
-Ohio St: 2
-Okla City: 2
-Oklahoma: 2
-Oklahoma St: 2
-Old Dominion: 2
-Oral Roberts: 2
-Oregon: 2
-Oregon St: 2
-Pacific: 2
-Penn: 2
-Penn St: 2
-Pepperdine: 2
-Pittsburgh: 2
-Portland: 2
-Portland St: 2
-Prairie View: 2
-Presbyterian: 2
-Princeton: 2
-Providence: 2
-Purdue: 1
-Quinnipiac: 1
-Radford: 1
-Rhode Island: 1
-Rice: 1
-Richmond: 1
-Rider: 1
-Robert Morris: 1
-Rutgers: 1
-S Carolina St: 1
-S Dakota St: 1
-S Illinois: 1
-Sacred Heart: 1
-Sam Houston St: 1
-Samford: 1
-San Diego: 1
-San Diego St: 1
-San Francisco: 1
-San Jose St: 1
-Santa Barbara: 1
-Santa Clara: 1
-Savannah St: 1
-SC Upstate: 1
-SE Louisiana: 1
-SE Missouri St: 1
-Seattle: 1
-Seton Hall: 1
-SF Austin: 1
-Siena: 1
-SMU: 1
-South Alabama: 1
-South Carolina: 1
-South Dakota: 1
-South Florida: 1
-Southern Miss: 1
-Southern Univ: 1
-Southern Utah: 1
-St Bonaventure: 1
-St Francis NY: 1
-St Francis PA: 1
-St John's: 1
-St Joseph's PA: 1
-St Louis: 1
-St Mary's CA: 1
-St Peter's: 1
-Stanford: 1
-Stetson: 1
-Stony Brook: 1
-Syracuse: 1
-TAM C. Christi: 1
-TCU: 1
-Temple: 1
-Tennessee: 1
-Tennessee St: 1
-Tennessee Tech: 1
-Texas: 1
-Texas A&M: 1
-Texas St: 1
-Texas Tech: 1
-TN Martin: 1
-Toledo: 1
-Towson: 1
-Troy: 1
-Tulane: 1
-Tulsa: 1
-UTRGV: 1
-TX Southern: 1
-UAB: 1
-UC Davis: 1
-UC Irvine: 1
-UC Riverside: 1
-UCF: 1
-UCLA: 1
-ULL: 1
-ULM: 1
-UMBC: 1
-UNC Asheville: 1
-UNC Greensboro: 1
-UNC Wilmington: 1
-UNLV: 1
-USC: 0
-UT Arlington: 0
-UT San Antonio: 0
-Utah: 0
-Utah St: 0
-Utah Valley: 0
-UTEP: 0
-Utica: 0
-VA Commonwealth: 0
-Valparaiso: 0
-Vanderbilt: 0
-Vermont: 0
-Villanova: 0
-Virginia: 0
-Virginia Tech: 0
-VMI: 0
-W Carolina: 0
-W Illinois: 0
-WKU: 0
-W Michigan: 0
-W Salem St: 0
-W Texas A&M: 0
-Wagner: 0
-Wake Forest: 0
-Washington: 0
-Washington St: 0
-Weber St: 0
-West Virginia: 0
-WI Green Bay: 0
-WI Milwaukee: 0
-Wichita St: 0
-William & Mary: 0
-Winthrop: 0
-Wisconsin: 0
-Wofford: 0
-Wright St: 0
-Wyoming: 0
-Xavier: 0
-Yale: 0
-Youngstown St: 0
+0 Abilene Chr
+-2 Air Force
+-6 Akron
+-3 Alabama
+-4 Alabama A&M
+-8 Alabama St
+-12 Albany NY
+-14 Alcorn St
+-14 Alliant Intl
+-17 American Univ
+-18 Appalachian St
+5 Arizona
+5 Arizona St
+2 Ark Little Rock
+2 Ark Pine Bluff
+14 Arkansas
+13 Arkansas St
+13 Armstrong St
+13 Army
+18 Auburn
+18 Augusta
+14 Austin Peay
+11 Ball St
+12 Baylor
+5 Belmont
+5 Bethune-Cookman
+4 Binghamton
+4 Birmingham So
+-2 Boise St
+0 Boston College
+-5 Boston Univ
+-5 Bowling Green
+-6 Bradley
+-6 Brooklyn
+-7 Brown
+-7 Bryant
+-11 Bucknell
+-13 Buffalo
+-7 Butler
+-18 BYU
+-19 C Michigan
+-19 Cal Poly SLO
+-24 California
+-25 Campbell
+-26 Canisius
+-26 Cent Arkansas
+-26 Centenary
+-29 Central Conn
+-30 Charleston So
+-36 Charlotte
+-42 Chattanooga
+-42 Chicago St
+-38 Cincinnati
+-38 Citadel
+-42 Clemson
+-41 Cleveland St
+-45 Coastal Car
+-48 Col Charleston
+-50 Colgate
+-54 Colorado
+-57 Colorado St
+-57 Columbia
+-18 Connecticut
+-21 Coppin St
+-23 Cornell
+-29 Creighton
+-30 CS Bakersfield
+-31 CS Fullerton
+-33 CS Northridge
+-33 CS Sacramento
+-33 Dartmouth
+-39 Davidson
+-41 Dayton
+-46 Delaware
+-47 Delaware St
+-47 Denver
+-49 DePaul
+-50 Detroit
+-51 Drake
+-54 Drexel
+10 Duke
+10 Duquesne
+8 E Illinois
+5 E Kentucky
+4 E Michigan
+2 E Washington
+1 East Carolina
+1 Edwardsville
+1 Elon
+-6 ETSU
+-9 Evansville
+-14 F Dickinson
+-17 Fairfield
+-18 FL Atlantic
+-17 FL Gulf Coast
+8 Florida
+6 Florida A&M
+5 Florida Intl
+5 Florida St
+4 Fordham
+2 Fresno St
+2 Furman
+-3 G Washington
+-5 Ga Southern
+-5 Gardner Webb
+-6 George Mason
+6 Georgetown
+-1 Georgia
+-2 Georgia St
+5 Georgia Tech
+10 Gonzaga
+10 Grambling
+10 Grand Canyon
+6 Hampton
+6 Hardin-Simmons
+6 Hartford
+4 Harvard
+1 Hawaii
+1 High Point
+-1 Hofstra
+-6 Holy Cross
+-10 Houston
+-10 Houston Bap
+-11 Howard
+-13 Idaho
+-14 Idaho St
+-17 IL Chicago
+-11 Illinois
+-13 Illinois St
+-13 Incarnate Word
+-2 Indiana
+-4 Indiana St
+-12 Iona
+-13 Iowa
+-13 Iowa St
+-13 IPFW
+-14 IUPUI
+-17 Jackson St
+-18 Jacksonville
+-18 Jacksonville St
+-19 James Madison
+29 Kansas
+27 Kansas St
+27 Kennesaw
+26 Kent
+77 Kentucky
+76 La Salle
+73 Lafayette
+71 Lamar
+67 Lehigh
+64 Liberty
+64 Lipscomb
+60 Long Beach St
+56 Long Island
+56 Longwood
+55 Louisiana Tech
+81 Louisville
+82 Loy Marymount
+80 Loyola MD
+81 Loyola-Chicago
+82 LSU
+82 MA Lowell
+82 Maine
+78 Manhattan
+76 Marist
+78 Marquette
+76 Marshall
+90 Maryland
+93 Massachusetts
+91 McNeese St
+91 MD E Shore
+100 Memphis
+99 Mercer
+100 Miami FL
+96 Miami OH
+116 Michigan
+144 Michigan St
+145 Minnesota
+143 Mississippi
+144 Mississippi St
+141 Missouri
+141 Missouri KC
+138 Missouri St
+135 Monmouth NJ
+127 Montana
+125 Montana St
+125 Morehead St
+123 Morgan St
+123 Morris Brown
+118 MS Valley St
+115 Mt St Mary's
+112 MTSU
+102 Murray St
+101 N Colorado
+99 N Dakota St
+97 N Illinois
+97 N Kentucky
+95 Navy
+89 NC A&T
+88 NC Central
+92 NC State
+92 NE Illinois
+92 NE Omaha
+85 Nebraska
+84 Nevada
+84 New Hampshire
+78 New Mexico
+69 New Mexico St
+66 New Orleans
+65 Niagara
+63 Nicholls St
+63 NJIT
+63 Norfolk St
+119 North Carolina
+119 North Dakota
+118 North Florida
+115 North Texas
+110 Northeastern
+108 Northern Arizona
+105 Northern Iowa
+105 Northwestern
+104 Northwestern LA
+103 Notre Dame
+101 Oakland
+99 Ohio
+113 Ohio St
+113 Okla City
+124 Oklahoma
+129 Oklahoma St
+123 Old Dominion
+120 Oral Roberts
+123 Oregon
+118 Oregon St
+115 Pacific
+104 Penn
+103 Penn St
+97 Pepperdine
+97 Pittsburgh
+96 Portland
+94 Portland St
+93 Prairie View
+93 Presbyterian
+85 Princeton
+83 Providence
+86 Purdue
+86 Quinnipiac
+84 Radford
+85 Rhode Island
+85 Rice
+83 Richmond
+81 Rider
+76 Robert Morris
+74 Rutgers
+69 S Carolina St
+66 S Dakota St
+62 S Illinois
+62 Sacred Heart
+60 Sam Houston St
+58 Samford
+56 San Diego
+53 San Diego St
+52 San Francisco
+51 San Jose St
+47 Santa Barbara
+45 Santa Clara
+45 Savannah St
+45 SC Upstate
+44 SE Louisiana
+43 SE Missouri St
+43 Seattle
+48 Seton Hall
+46 SF Austin
+44 Siena
+42 SMU
+37 South Alabama
+33 South Carolina
+33 South Dakota
+32 South Florida
+29 Southern Miss
+22 Southern Univ
+21 Southern Utah
+19 St Bonaventure
+19 St Francis NY
+18 St Francis PA
+19 St John's
+19 St Joseph's PA
+17 St Louis
+13 St Mary's CA
+10 St Peter's
+14 Stanford
+14 Stetson
+13 Stony Brook
+40 Syracuse
+39 TAM C. Christi
+38 TCU
+39 Temple
+41 Tennessee
+39 Tennessee St
+39 Tennessee Tech
+43 Texas
+43 Texas A&M
+41 Texas St
+37 Texas Tech
+37 TN Martin
+37 Toledo
+35 Towson
+34 Troy
+34 Tulane
+32 Tulsa
+32 UTRGV
+26 TX Southern
+21 UAB
+21 UC Davis
+20 UC Irvine
+20 UC Riverside
+16 UCF
+37 UCLA
+32 ULL
+26 ULM
+25 UMBC
+23 UNC Asheville
+21 UNC Greensboro
+17 UNC Wilmington
+27 UNLV
+23 USC
+22 UT Arlington
+19 UT San Antonio
+25 Utah
+16 Utah St
+16 Utah Valley
+11 UTEP
+11 Utica
+10 VA Commonwealth
+3 Valparaiso
+0 Vanderbilt
+-3 Vermont
+12 Villanova
+14 Virginia
+12 Virginia Tech
+12 VMI
+11 W Carolina
+11 W Illinois
+8 WKU
+6 W Michigan
+6 W Salem St
+6 W Texas A&M
+5 Wagner
+7 Wake Forest
+7 Washington
+7 Washington St
+3 Weber St
+6 West Virginia
+2 WI Green Bay
+1 WI Milwaukee
+3 Wichita St
+3 William & Mary
+-5 Winthrop
+7 Wisconsin
+3 Wofford
+1 Wright St
+0 Wyoming
+0 Xavier
+0 Yale
+0 Youngstown St
